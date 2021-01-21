@@ -1,0 +1,26 @@
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\bin\Debug\netcoreapp3.1\if_statement.exe
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\bin\Debug\netcoreapp3.1\if_statement.deps.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\bin\Debug\netcoreapp3.1\if_statement.runtimeconfig.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\bin\Debug\netcoreapp3.1\if_statement.runtimeconfig.dev.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\bin\Debug\netcoreapp3.1\if_statement.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\bin\Debug\netcoreapp3.1\if_statement.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\obj\Debug\netcoreapp3.1\if_statement.csprojAssemblyReference.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\obj\Debug\netcoreapp3.1\if_statement.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\obj\Debug\netcoreapp3.1\if_statement.AssemblyInfo.cs
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\obj\Debug\netcoreapp3.1\if_statement.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\obj\Debug\netcoreapp3.1\if_statement.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\obj\Debug\netcoreapp3.1\if_statement.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\if_statement\obj\Debug\netcoreapp3.1\if_statement.genruntimeconfig.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\obj\Debug\netcoreapp3.1\if_statement.csprojAssemblyReference.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\obj\Debug\netcoreapp3.1\if_statement.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\obj\Debug\netcoreapp3.1\if_statement.AssemblyInfo.cs
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\obj\Debug\netcoreapp3.1\if_statement.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\obj\Debug\netcoreapp3.1\if_statement.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\obj\Debug\netcoreapp3.1\if_statement.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\bin\Debug\netcoreapp3.1\if_statement.exe
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\bin\Debug\netcoreapp3.1\if_statement.deps.json
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\bin\Debug\netcoreapp3.1\if_statement.runtimeconfig.json
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\bin\Debug\netcoreapp3.1\if_statement.runtimeconfig.dev.json
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\bin\Debug\netcoreapp3.1\if_statement.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\bin\Debug\netcoreapp3.1\if_statement.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_101 - answers\if_statement\obj\Debug\netcoreapp3.1\if_statement.genruntimeconfig.cache

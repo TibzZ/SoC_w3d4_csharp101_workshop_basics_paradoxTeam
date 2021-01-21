@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QeIBLjMtU0blGxE0cExNL/UulnmCyq/5pQbtlw8Wetx5MYVSYKyeGVwTOKwrcka4QG/gfB77Umlae/++3idweQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James\\Desktop\\SOC\\C# bootcamp\\c_sharp_101\\challenge\\challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\bin\Debug\netcoreapp3.1\for_loop.exe
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\bin\Debug\netcoreapp3.1\for_loop.deps.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\bin\Debug\netcoreapp3.1\for_loop.runtimeconfig.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\bin\Debug\netcoreapp3.1\for_loop.runtimeconfig.dev.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\bin\Debug\netcoreapp3.1\for_loop.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\bin\Debug\netcoreapp3.1\for_loop.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\obj\Debug\netcoreapp3.1\for_loop.csprojAssemblyReference.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\obj\Debug\netcoreapp3.1\for_loop.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\obj\Debug\netcoreapp3.1\for_loop.AssemblyInfo.cs
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\obj\Debug\netcoreapp3.1\for_loop.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\obj\Debug\netcoreapp3.1\for_loop.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\obj\Debug\netcoreapp3.1\for_loop.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_101\for_loop\obj\Debug\netcoreapp3.1\for_loop.genruntimeconfig.cache

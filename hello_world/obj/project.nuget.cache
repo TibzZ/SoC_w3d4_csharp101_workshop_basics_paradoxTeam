@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lhOTKJN35KPUWDLrm1ATVZC1JBqnup4Yvi6cYrqRCeagFkAJa4stI746YyxEIyh/ePC7BObBsSGyWBwZflEyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James\\Desktop\\SOC\\C# bootcamp\\c_sharp_101\\hello_world\\hello_world.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
