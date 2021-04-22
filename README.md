@@ -1,4 +1,5 @@
-Back to basics to complete these C# exercises and ensure all the foundations are consolidated!
+All done - Basic exercises to refresh my memory and also find at improved solutions compare to original code.
+Exercises covers: For loop, if statement, string interpolation, random number generation, convertion of variable types
 
 # C# 101
 
