@@ -1,3 +1,5 @@
+Back to basics to complete these C# exercises and ensure all the foundations are consolidated!
+
 # C# 101
 
 ## Task 0
